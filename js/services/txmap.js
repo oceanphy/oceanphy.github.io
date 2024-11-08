@@ -156,7 +156,7 @@ function showWelcome() {
                     posdesc = "朝观日出逐白浪，夕看云起收霞光。";  
                     break;  
                 case "四川省":  
-                    posdesc = "康康川妹子。";  
+                    posdesc = "想爬蜀道山";  
                     break;  
                 case "贵州省":  
                     posdesc = "茅台，学生，再塞200。";  
